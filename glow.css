@@ -1,5 +1,3 @@
-/* Optional, but recommended: */
-
 .mtk5 {
   color: #93e2ff;
   text-shadow: 0 0 2px #000, 0 0 10px #46e3ff;
@@ -9,8 +7,6 @@
   color: #d0aeff;
   text-shadow: 0 0 2px #000, 0 0 10px #9a57ff, 0 0 35px #bf4fffbb;
 }
-
-/* Important to looks good */
 
 .mtk11 {
     color: #91bbff;
