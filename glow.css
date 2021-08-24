@@ -1,3 +1,13 @@
+.mtk5 {
+  color: #93e2ff;
+  text-shadow: 0 0 2px #000, 0 0 14px #46e3ff;
+}
+
+.mtk8 {
+  color: #d0aeff;
+  text-shadow: 0 0 2px #000, 0 0 10px #9a57ff, 0 0 35px #bf4fffbb;
+}
+
 .mtk11 {
     color: #91bbff;
     text-shadow: 0 0 5px #2f36ff, 0 0 10px #9d91ff, 0 0 2px black;
