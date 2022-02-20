@@ -19,10 +19,12 @@ https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css
 
 Edit your settings.json with glow.css downloaded in your device
 ```
+{
 "vscode_custom_css.imports": [
         "file:///D:/G/glow.css", //Local file (download)
         "https://raw.githubusercontent.com/GilbertoNavaMarcos/GlowTheme/master/glow.css" //This file (online)
-    ]
+    ],
+}
 ```
 
 Open your command palette with Ctrl + Shift + P and choose "Enable custom CSS and JS"
