@@ -29,3 +29,10 @@ Edit your settings.json with glow.css downloaded in your device
 
 Open your command palette with Ctrl + Shift + P and choose "Enable custom CSS and JS"
 Reload and enjoy!
+
+
+# Terminal Themes ❤️
+https://ohmyposh.dev/
+
+Backup of fav themes for Ohmyposh woking in Powershell
+![fav](https://ohmyposh.dev/assets/images/M365Princess-a6943fa170f375c061bb482e978f243c.png)
