@@ -36,3 +36,10 @@ https://ohmyposh.dev/
 
 Backup of fav themes for Ohmyposh woking in Powershell
 ![fav](https://ohmyposh.dev/assets/images/M365Princess-a6943fa170f375c061bb482e978f243c.png)
+
+[//]: <> (Import-Module oh-my-posh)
+[//]: <> (oh-my-posh --init --shell pwsh --config "~/.night-owl.omp.json" | Invoke-Expression)
+```script
+Set-PoshPrompt -Theme ~/.M365Princess.omp.json
+Import-Module -Name Terminal-Icons
+```
