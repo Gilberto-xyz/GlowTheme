@@ -25,7 +25,6 @@
           "style": "powerline",
           "type": "path"
         },
-        //poweline
         {
           "background": "#fb5607",
           "background_templates": [
@@ -47,7 +46,6 @@
           "style": "powerline",
           "type": "git"
         },
-        //end
         {
           "background": "#8093f1",
           "foreground": "#ffffff",
